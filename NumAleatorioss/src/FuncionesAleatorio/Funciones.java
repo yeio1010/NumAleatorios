@@ -7,7 +7,7 @@ package FuncionesAleatorio;
 
 /**
  *
- * @author Dicita
+ * @author Yulian Imbachi Ome - Edisson Alonso Orduña
  */
 public class Funciones {
     public static double FuncionCambio(double n){

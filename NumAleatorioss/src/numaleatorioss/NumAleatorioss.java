@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Dicita
+ * @author Yulian Imbachi Ome - Edisson Alonso Orduña
  */
 public class NumAleatorioss {
 
