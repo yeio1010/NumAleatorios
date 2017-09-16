@@ -17,7 +17,7 @@ public class NumAleatorioss {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    void NumAlea() {
         // TODO code application logic here
         int n=0, aux=0;
         double [] s=new double[5],u= new double[5];
